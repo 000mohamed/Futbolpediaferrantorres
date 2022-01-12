@@ -1,0 +1,87 @@
+img {
+    width: 200px;
+    margin-top: 10px;
+    margin-left: 150px;
+}
+
+li {
+    float: left;
+    list-style: none;
+    padding: 50px;
+}
+
+nav {
+    float: right;
+    margin-top: 50px;
+    margin-right: 500px;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'calibri';
+    color: black;
+    font-size: 25px;
+}
+
+li:hover a{
+    background-color: black;
+    color: white;
+    transition: 700ms;
+}
+ 
+header {
+    background-color: #6D6D6A;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'calibri';
+}
+
+h2 {
+    font-family: 'calibri';
+}
+
+b {
+    color: blue;
+}
+
+.titulo {
+    color: #404035;
+    text-align: left;
+    text-decoration: underline;
+}
+
+body {
+    margin-left: 30px;
+}
+
+.copa-1 {
+    width: 500px;
+}
+
+table {
+    width: 500px;
+    border: 1px solid;
+    margin-left: 690px;
+    margin-bottom: 100px;
+    margin-top: 30px;
+}
+
+td {
+    text-align: center;
+    padding: 10px;
+}
+
+thead {
+    background-color: #C2C2B9;
+}
+
+.españa-bandera {
+    align-items: left;
+}
+
+.campeonatos-titulo {
+    margin-top: 100px;
+}
+
